@@ -1,0 +1,6 @@
+[Module]
+Name=RetrieveMateria
+Version=1
+Files=retrievemateria.lua
+Enabled=1
+Dependencies=minionlib   -- optional parameter, to include functions from other LUA modules, FFXIVMinion uses minionlib for example
